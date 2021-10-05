@@ -1,0 +1,2 @@
+# infomax-cdn
+infomaxcdn
